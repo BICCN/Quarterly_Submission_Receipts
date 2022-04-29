@@ -1,0 +1,1 @@
+#2022_Quarter_1_Receipts
