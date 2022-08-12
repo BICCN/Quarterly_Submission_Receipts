@@ -1,0 +1,31 @@
+Data Collection,Sample Type,Samples Total,Subspecimen Type,Total Processed Subspecimens,Parent Specimen Type
+chung_lsfm,brain hemisphere,1,brain section set,120,not reported
+dev_mouse_brain_lsfm,whole brain,193,whole brain,193,not reported
+dong_TRIO,whole brain,8,brains,8,not reported
+dong_antero,whole brain,3,brains,3,not reported
+dong_confocal,brain section set,1,brain section set,1,not reported
+dong_retro,whole brain,3,brains,3,not reported
+ecker_hu_sn_ATACseq,cell nucleus,19,cell nucleus,131103,brain section set
+ecker_hu_sn_mCseq,cell nucleus,14,cell nucleus,121377,brain section set
+ecker_sn_ATACseq,brain region,36,nuclei,451606,brain region
+ecker_sn_mCseq,brain region,24,nuclei,39347,brain region
+ecker_sn_mCseq_retro,brain region,38,nuclei,4225,brain region
+feng_fish,brain slice,1,brain slice,4,not reported
+feng_sn_10xv3,cell nucleus,4,cells,80000,not reported
+fischl_oct,brain region,1,slices,40,brain region
+fischl_stereology,brain region,1,slices,4,brain region
+huang_ccf4_hist,whole brain,1,brain,1,whole brain
+huang_ccf4_mri,whole brain,1,brain,1,whole brain
+huang_sn_10xv3,library,3,cell,19788,not reported
+kriegstein_sc_multiome,brain region,21,cell nucleus,169362,not reported
+lein_human_pseq_e,cell_in_slice,36,cell_in_slice,36,not reported
+lein_human_pseq_m,cell_in_slice,529,cell_in_slice,529,not reported
+lein_human_pseq_t,cell_in_slice,36,cell_in_slice,36,not reported
+macosko_bg_multiome_atac_human,cell nucleus,39,library,520861,not reported
+macosko_bg_multiome_gex_human,cell nucleus,39,library,474524,not reported
+osten_ls,whole brain,12,brain,12,whole brain
+sestan_multiome_10x_human,library,2,library,7367,brain region
+sestan_multiome_10x_nhp,library,6,library,29449,brain region
+tasic_stpt,whole brain,37,whole brain,37,not reported
+zeng_sc_SSv4,whole cell,1998,whole cell,1998,cellgroup
+zhuang_dulac_merfish_HYP_2,brain region,1,brain slice,1,not reported
