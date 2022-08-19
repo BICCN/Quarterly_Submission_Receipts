@@ -1,0 +1,23 @@
+bil_uuid	name	description	organization_name	lab_name	project_funder_id	project_funder	data_path	submission_status	validation_status																								
+0900631a8fb86f2a	20210922_CJBasil_Pvalb_Postn_slide079_Slide179_Slide279_Slide379	Full sagittal images taken at 20x from one half hemisphere of Marmoset Basil. Each section was separated by 1800 um. Slices were stained using ACD V2 RNAscope Fluorescent Multiplex Assay. This group of sections was stained with interneuronal markers Parvalbumin (488 Channel) and Periostin (647 channel).	MIT	Feng	1-U01-MH114819-01	NIH	/bil/lz/heatherz/0900631a8fb86f2a	SUCCESS	SUCCESS																								
+																																	
+	contributorname	creator	contributortype	nametype	nameidentifier	nameidentifierscheme	affiliation	affiliationidentifier	affiliationidentifierscheme																								
+	Feng Lab	Yes	ResearchGroup	Personal	https://orcid.org/0000-0002-8021-277X	ORCID	Massachusetts Institute of Technology	https://ror.org/042nb2s44	ROR																								
+																																	
+	fundername	funding_reference_identifier	funding_reference_identifier_type	award_number	award_title																												
+	National Institutes of Health	https://ror.org/042nb2s44	ROR	1U01MH114819-01	1U01MH114819-01																												
+																																	
+	relatedidentifier	relatedidentifiertype	pmcid	relationtype	citation																												
+	https://doi.org/10.1038/s41586-020-2781-z	DOI		IsCitedBy	"Krienen, F.M., Goldman, M., Zhang, Q. et al. Innovations present in the primate interneuron repertoire. Nature 586, 262–269 (2020). https://doi.org/10.1038/s41586-020-2781-z"																												
+																																	
+	microscopetype	microscopemanufacturerandmodel	objectivename	objectiveimmersion	objectivena	objectivemagnification	detectortype	detectormodel	illuminationtypes	illuminationwavelength	detectionwavelength	sampletemperature																					
+	Confocal	Confocal		Air	0.8	20x			350-850nm																								
+																																	
+	bildirectory	title	socialmedia	subject	subjectscheme	rights	rightsuri	rightsidentifier	dataset_image	generalmodality	technique	other	abstract	methods	technicalinfo																		
+	/bil/data/09/00/0900631a8fb86f2a	A Molecular and Cellular Atlas of the Marmoset Brain	Sagittal images of marmoset brain slices stained with interneuronal markers			Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)	https://creativecommons.org/licenses/by-sa/4.0/	CC-BY-NC-SA-4.0		spatial transcriptomics	smFISH		"Marmosets are New World monkeys that share fundamental aspects of brain cell-type composition with other primates including humans. Marmosets are also an emerging model for translational neuroscience, due to their small size, rapid reproductive cycle, and evolutionary relationship to humans. We used single-nucleus RNA sequencing to analyze 2.4 million brain cells sampled from 11 cortical and 7 subcortical locations in the adult marmoset brain, identifying cell types and their properties across these brain areas. Analysis of the resulting 288 neuronal types revealed unexpected relationships across phylogenetically distinct brain structures. The relatively small size and lower myelination levels in the marmoset brain also facilitate quantitative spatial mapping and reconstruction of cells’ morphology. We take advantage of the small size of the marmoset brain to image and quantify spatial locations of GABAergic interneuron types using single-molecule FISH across whole sagittal sections an"																				
+																																	
+	localid	species	ncbitaxonomy	age	ageunit	sex	genotype	organlocalid	organname	samplelocalid	atlas	locations																					
+	CJ Basil	Marmoset	NCBI:txid9483	2	Years	Male	WT	CJ Basil	Brain	CJ Basil																							
+																																	
+	xaxis	obliquexdim1	obliquexdim2	obliquexdim3	yaxis	obliqueydim1	obliqueydim2	obliqueydim3	zaxis	obliquezdim1	obliquezdim2	obliquezdim3	landmarkname	landmarkx	landmarky	landmarkz	number	displaycolor	representation	flurophore	stepsizex	stepsizey	stepsizez	stepsizet	channels	slices	z	xsize	ysize	zsize	gbytes	files	dimensionorder
+	right-to-left				right-to-left				superior-to-inferior								"488,647"	NA		"488,647"	55	36			3	10712	1						

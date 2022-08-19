@@ -1,0 +1,39 @@
+bil_uuid	name	description	organization_name	lab_name	project_funder_id	project_funder	data_path	submission_status	validation_status																								
+57c47b3f93b87df2	zhuang_dulac_merfish_HYP_2	MERFISH imaging of the mouse hypothalamus	Harvard University	Xiaowei Zhuang and Catherine Dulac	U19MH114821	NIH	/bil/lz/zhuang01/57c47b3f93b87df2	SUCCESS	SUCCESS																								
+																																	
+	contributorname	creator	contributortype	nametype	nameidentifier	nameidentifierscheme	affiliation	affiliationidentifier	affiliationidentifierscheme																								
+	"Zhuang, Xiaowei"	Yes	ProjectLeader	Personal	0000-0002-6034-7853	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Zhuang, Xiaowei"	Yes	ContactPerson	Personal	0000-0002-6034-7853	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Blosser, Timothy"	Yes	Researcher	Personal	0000-0002-7739-922X	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Jung, Won"	Yes	Researcher	Personal	0000-0003-2810-5528	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Liang, Zhengzheng"	Yes	Researcher	Personal	0000-0002-3969-4199	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Dulac, Catherine"	Yes	ProjectLeader	Personal	0000-0001-5024-5418	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+	"Dulac, Catherine"	Yes	ContactPerson	Personal	0000-0001-5024-5418	ORCID	Harvard University	https://ror.org/03vek6s52	ROR																								
+																																	
+	fundername	funding_reference_identifier	funding_reference_identifier_type	award_number	award_title																												
+	National Institutes of Health	https://ror.org/01cwqze88	ROR	U19MH114821	A Comprehensive Center for Mouse Brain Cell Atlas																												
+																																	
+	relatedidentifier	relatedidentifiertype	pmcid	relationtype	citation																												
+																																	
+	microscopetype	microscopemanufacturerandmodel	objectivename	objectiveimmersion	objectivena	objectivemagnification	detectortype	detectormodel	illuminationtypes	illuminationwavelength	detectionwavelength	sampletemperature																					
+	Inverted	Nikon TI2-U																															
+																																	
+	bildirectory	title	socialmedia	subject	subjectscheme	rights	rightsuri	rightsidentifier	dataset_image	generalmodality	technique	other	abstract	methods	technicalinfo			doi															
+	/bil/data/57/c4/57c47b3f93b87df2/	A molecularly defined and spatially resolved cell atlas of the mouses hypothalamus				Creative Commons Attribution 4.0 International (CC BY 4.0)	https://creativecommons.org/licenses/by/4.0/	CC-BY-4.0		spatial transcriptomics	MERFISH		"In this project, we used MERFISH to perform in situ gene expression profiling of individual cells in the mouse hypothalamus, determine the cell-type identity of these cells and map the spatial organization of the cell types.  We performed MERFISH imaging on 360 genes in a total of 403 coronal brain slices from a total of 12 animals. Prior to being sacrificed, the animals in this study were subjected to one of a list of behavioral conditions/paradigms, including: aggression (male-male, mother-intruder), infanticide, parenting, and fever (LPS injection)."																				
+																																	
+	localid	species	ncbitaxonomy	age	ageunit	sex	genotype	organlocalid	organname	samplelocalid	atlas	locations																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Male			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Female			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Female			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Female			Brain	N/A		HYP - Hypothalamus																					
+		Mouse	NCBI:txid10090	10 to 16	weeks	Female			Brain	N/A		HYP - Hypothalamus																					
+																																	
+	xaxis	obliquexdim1	obliquexdim2	obliquexdim3	yaxis	obliqueydim1	obliqueydim2	obliqueydim3	zaxis	obliquezdim1	obliquezdim2	obliquezdim3	landmarkname	landmarkx	landmarky	landmarkz	number	displaycolor	representation	flurophore	stepsizex	stepsizey	stepsizez	stepsizet	channels	slices	z	xsize	ysize	zsize	gbytes	files	dimensionorder
+	left-to-right				left-to-right				left-to-right								1	"single color, gray scale"			0.109	0.109											

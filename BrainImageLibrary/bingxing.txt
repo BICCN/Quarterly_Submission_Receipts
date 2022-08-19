@@ -1,0 +1,29 @@
+bil_uuid	name	description	organization_name	lab_name	project_funder_id	project_funder	data_path	submission_status	validation_status																								
+a9543fca6edec2c7	CCF Nissl v4 subject 1	MRI and histology data for the first subject for CCF Nissl-v4.	Cold Spring Harbor Laboratory	Partha Mitra	1-U19-MH114821-01	NIH	/bil/lz/bingxing/a9543fca6edec2c7	SUCCESS	SUCCESS																								
+																																	
+	contributorname	creator	contributortype	nametype	nameidentifier	nameidentifierscheme	affiliation	affiliationidentifier	affiliationidentifierscheme																								
+	"Mitra, Partha"	Yes	ProjectLeader	Personal	https://orcid.org/0000-0001-8818-6804	ORCID	Cold Spring Harbor Laboratory	https://ror.org/02qz8b764	ROR																								
+	"Dardzinski, Bernard"	Yes	ProjectMember	Personal	https://orcid.org/0000-0002-4122-7282	ORCID	Uniformed Services University of the Health Sciences	https://ror.org/04r3kq386	ROR																								
+																																	
+	fundername	funding_reference_identifier	funding_reference_identifier_type	award_number	award_title	sheet_id																											
+	National Institutes of Health	https://ror.org/01cwqze88	ROR	1U19MH114821-01	A Comprehensive Center for Mouse Brain Cell Atlas	161																											
+																																	
+	relatedidentifier	relatedidentifiertype	pmcid	relationtype	citation	sheet_id	data_set_id																										
+																																	
+	microscopetype	microscopemanufacturerandmodel	objectivename	objectiveimmersion	objectivena	objectivemagnification	detectortype	detectormodel	illuminationtypes	illuminationwavelength	detectionwavelength	sampletemperature																					
+	Brightfield	Hamamatsu/Olympus Nanozoomer HT system	Olympus	Air		20X																											
+	MRI	Bruker BioSpin MRI GmbH																															
+	MRI	Bruker BioSpin MRI GmbH																															
+																																	
+	bildirectory	title	socialmedia	subject	subjectscheme	rights	rightsuri	rightsidentifier	dataset_image	generalmodality	technique	other	abstract	methods	technicalinfo																		
+	/bil/data/a9/54/a9543fca6edec2c7/MD787_exvivo	CCF Nissl v4 MD787 ex vivo MRI				Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)	https://creativecommons.org/licenses/by-sa/4.0/	CC-BY-NC-SA-4.0		other	other	"whole-brain atlas, ex vivo MRI"	"This is the first subject in the new CCFv4, featuring serial Nissl stained sections using tape-transfer method and with MRI."																				
+	/bil/data/a9/54/a9543fca6edec2c7/MD787	CCF Nissl v4 MD787 histology				Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)	https://creativecommons.org/licenses/by-sa/4.0/	CC-BY-NC-SA-4.0		other	other	"whole-brain atlas, Nissl stain imaging"	"This is the first subject in the new CCFv4, featuring serial Nissl stained sections using tape-transfer method and with MRI."																				
+	/bil/data/a9/54/a9543fca6edec2c7/MD787_invivo	CCF Nissl v4 MD787 in vivo MRI				Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)	https://creativecommons.org/licenses/by-sa/4.0/	CC-BY-NC-SA-4.0		other	other	"whole-brain atlas, in vivo MRI"	"This is the first subject in the new CCFv4, featuring serial Nissl stained sections using tape-transfer method and with MRI."																				
+																																	
+	localid	species	ncbitaxonomy	age	ageunit	sex	genotype	organlocalid	organname	samplelocalid	atlas	locations																					
+	MD787	Mouse	NCBI:txid10090	56	Days	Male	Strain_Name='C57BL6'	MD787	Brain	MD787																							
+																																	
+	xaxis	obliquexdim1	obliquexdim2	obliquexdim3	yaxis	obliqueydim1	obliqueydim2	obliqueydim3	zaxis	obliquezdim1	obliquezdim2	obliquezdim3	landmarkname	landmarkx	landmarky	landmarkz	number	displaycolor	representation	flurophore	stepsizex	stepsizey	stepsizez	stepsizet	channels	slices	z	xsize	ysize	zsize	gbytes	files	dimensionorder
+	right-to-left				inferior-to-superior				anterior-to-posterior								"1,2,3,red,green,blue"	"(1.0, 0.0, 0.0),(0.0, 1.0, 0.0),(0.0, 0.0, 1.0)"			0.46 microns	0.46 microns	20 microns										
+	left-to-right				anterior-to-posterior				superior-to-inferior								"1, gray"	"(0.8, 0.8, 0.8)"			100 microns	100 microns	100 microns										
+	left-to-right				anterior-to-posterior				superior-to-inferior								"1, gray"	"(0.8, 0.8, 0.8)"			50 microns	50 microns	50 microns										

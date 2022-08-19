@@ -1,0 +1,23 @@
+bil_uuid	name	description	organization_name	lab_name	project_funder_id	project_funder	data_path	submission_status	validation_status																								
+046c91d35a983d7a	2022 Q2 U01 Dong Level 1 Mini Atlas Data Upload	Level 1 -- Whole-brain confocal microscopy images	"University of California, Los Angeles"	Center for Integrative Connectomics	1-U01-MH114829-01	NIH	/bil/lz/ibowman/046c91d35a983d7a	SUCCESS	SUCCESS																								
+																																	
+	contributorname	creator	contributortype	nametype	nameidentifier	nameidentifierscheme	affiliation	affiliationidentifier	affiliationidentifierscheme																								
+	"Dong, Hongwei"	Yes	ProjectLeader	Personal	https://orcid.org/0000-0001-9972-3177	ORCID	"University of California, Los Angeles"	https://ror.org/046rm7j60	ROR																								
+	Center for Integrative Connectomics	No	ResearchGroup	Organizational			"University of California, Los Angeles"	https://ror.org/046rm7j60	ROR																								
+																																	
+	fundername	funding_reference_identifier	funding_reference_identifier_type	award_number	award_title																												
+	National Institutes of Health	https://ror.org/01cwqze88	ROR	1U01MH114829-01	Anatomical Characterization of Neuronal Cell Types of the Mouse Brain																												
+																																	
+	relatedidentifier	relatedidentifiertype	pmcid	relationtype	citation																												
+																																	
+	microscopetype	microscopemanufacturerandmodel	objectivename	objectiveimmersion	objectivena	objectivemagnification	detectortype	detectormodel	illuminationtypes	illuminationwavelength	detectionwavelength	sampletemperature																					
+	Inverted Spinning Disk Confocal	Andor Dragonfly 200	Olympus 10x UPlanApo	Air	0.4	10x				"405, 488, 561, 637"		27C																					
+																																	
+	bildirectory	title	socialmedia	subject	subjectscheme	rights	rightsuri	rightsidentifier	dataset_image	generalmodality	technique	other	abstract	methods	technicalinfo																		
+	/bil/data/04/6c/046c91d35a983d7a	Level 1 whole-brain confocal imaging				Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)	https://creativecommons.org/licenses/by-sa/4.0/	CC-BY-NC-SA-4.0		connectivity	retrograde transynaptic tracing		"Viral tracers are used to sparsely label connectionally-unique projection neurons to assess their morphological characteristics.  Following SHIELD-processing of 500-um thick sections, volumetric image stacks are acquired using a confocal microscope at 10x and 30x magnifications."																				
+																																	
+	localid	species	ncbitaxonomy	age	ageunit	sex	genotype	organlocalid	organname	samplelocalid	atlas	locations	sheet_id	data_set_id																			
+		Mouse	NCBI:txid10090	3	Months	Male	C57BL6		Brain	SW220310-01	AllenMousev1		178	1013																			
+																																	
+	xaxis	obliquexdim1	obliquexdim2	obliquexdim3	yaxis	obliqueydim1	obliqueydim2	obliqueydim3	zaxis	obliquezdim1	obliquezdim2	obliquezdim3	landmarkname	landmarkx	landmarky	landmarkz	number	displaycolor	representation	flurophore	stepsizex	stepsizey	stepsizez	stepsizet	channels	slices	z	xsize	ysize	zsize	gbytes	files	dimensionorder
+	left-to-right				superior-to-inferior				anterior-to-posterior								"1,2,3,4,blue,green,red,far red"	"(Red, green, blue)"			0.603	0.603	2		4								
