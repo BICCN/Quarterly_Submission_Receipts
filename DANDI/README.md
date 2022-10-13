@@ -1,6 +1,6 @@
 DANDI receipts:
 
-[https://biccn.github.io/Quarterly_Submission_Receipts/](View the dashboards here)
+[View the dashboards here](https://biccn.github.io/Quarterly_Submission_Receipts/)
 
 We generate special receipts for Fischl (DANDI:000026) and Chung (DANDI:000108) U01s.
 
